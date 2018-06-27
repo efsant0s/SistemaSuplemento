@@ -11,5 +11,7 @@ package sistemasuplemento.exporters;
  * @author eduardo_fs1
  */
 public class SuplementoExporter {
-    
+    private void teste (){
+        
+    }
 }
